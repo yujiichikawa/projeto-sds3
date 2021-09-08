@@ -1,4 +1,4 @@
-function Footer() {
+function DataTable() {
     return (
         <div className="table-responsive">
     <table className="table table-striped table-sm">
@@ -130,4 +130,4 @@ function Footer() {
     );
 }
 
-export default Footer;
+export default DataTable;
